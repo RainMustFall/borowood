@@ -1,0 +1,22 @@
+build:
+  image: docker:latest
+
+  variables:
+    DOCKER_BUILDKIT: 1
+    DOCKER_DRIVER: overlay2
+    DOCKER_HOST: tcp://127.0.0.1:2375
+    DOCKER_TLS_CERTDIR: ''
+
+  services:
+    - docker:dind
+
+  before_script:
+    - docker info
+
+  script:
+    - docker build --tag frontend:latest --rm .
+    - docker save frontend:latest | gzip > frontend_latest.tar.gz
+
+  artifacts:
+    paths:
+      - frontend_latest.tar.gz
