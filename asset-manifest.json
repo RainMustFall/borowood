@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/borowood/static/css/main.019b1880.chunk.css",
-    "main.js": "/borowood/static/js/main.2d0ae017.chunk.js",
-    "main.js.map": "/borowood/static/js/main.2d0ae017.chunk.js.map",
-    "runtime-main.js": "/borowood/static/js/runtime-main.8d598e05.js",
-    "runtime-main.js.map": "/borowood/static/js/runtime-main.8d598e05.js.map",
-    "static/css/2.9648bd54.chunk.css": "/borowood/static/css/2.9648bd54.chunk.css",
-    "static/js/2.64972408.chunk.js": "/borowood/static/js/2.64972408.chunk.js",
-    "static/js/2.64972408.chunk.js.map": "/borowood/static/js/2.64972408.chunk.js.map",
+    "main.css": "/borowood/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/borowood/static/js/main.1bcebc2d.chunk.js",
+    "main.js.map": "/borowood/static/js/main.1bcebc2d.chunk.js.map",
+    "runtime-main.js": "/borowood/static/js/runtime-main.a0ae3957.js",
+    "runtime-main.js.map": "/borowood/static/js/runtime-main.a0ae3957.js.map",
+    "static/js/2.951a98a0.chunk.js": "/borowood/static/js/2.951a98a0.chunk.js",
+    "static/js/2.951a98a0.chunk.js.map": "/borowood/static/js/2.951a98a0.chunk.js.map",
+    "static/js/3.2b4c8383.chunk.js": "/borowood/static/js/3.2b4c8383.chunk.js",
+    "static/js/3.2b4c8383.chunk.js.map": "/borowood/static/js/3.2b4c8383.chunk.js.map",
     "index.html": "/borowood/index.html",
-    "static/css/2.9648bd54.chunk.css.map": "/borowood/static/css/2.9648bd54.chunk.css.map",
-    "static/css/main.019b1880.chunk.css.map": "/borowood/static/css/main.019b1880.chunk.css.map",
-    "static/js/2.64972408.chunk.js.LICENSE.txt": "/borowood/static/js/2.64972408.chunk.js.LICENSE.txt"
+    "static/css/main.8c8b27cf.chunk.css.map": "/borowood/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.951a98a0.chunk.js.LICENSE.txt": "/borowood/static/js/2.951a98a0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/borowood/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8d598e05.js",
-    "static/css/2.9648bd54.chunk.css",
-    "static/js/2.64972408.chunk.js",
-    "static/css/main.019b1880.chunk.css",
-    "static/js/main.2d0ae017.chunk.js"
+    "static/js/runtime-main.a0ae3957.js",
+    "static/js/2.951a98a0.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.1bcebc2d.chunk.js"
   ]
 }
