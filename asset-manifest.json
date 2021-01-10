@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/borowood/static/css/main.019b1880.chunk.css",
+    "main.js": "/borowood/static/js/main.fb056a51.chunk.js",
+    "main.js.map": "/borowood/static/js/main.fb056a51.chunk.js.map",
+    "runtime-main.js": "/borowood/static/js/runtime-main.d8a748e1.js",
+    "runtime-main.js.map": "/borowood/static/js/runtime-main.d8a748e1.js.map",
+    "static/css/2.9648bd54.chunk.css": "/borowood/static/css/2.9648bd54.chunk.css",
+    "static/js/2.7b3da6ad.chunk.js": "/borowood/static/js/2.7b3da6ad.chunk.js",
+    "static/js/2.7b3da6ad.chunk.js.map": "/borowood/static/js/2.7b3da6ad.chunk.js.map",
+    "index.html": "/borowood/index.html",
+    "static/css/2.9648bd54.chunk.css.map": "/borowood/static/css/2.9648bd54.chunk.css.map",
+    "static/css/main.019b1880.chunk.css.map": "/borowood/static/css/main.019b1880.chunk.css.map",
+    "static/js/2.7b3da6ad.chunk.js.LICENSE.txt": "/borowood/static/js/2.7b3da6ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8a748e1.js",
+    "static/css/2.9648bd54.chunk.css",
+    "static/js/2.7b3da6ad.chunk.js",
+    "static/css/main.019b1880.chunk.css",
+    "static/js/main.fb056a51.chunk.js"
+  ]
+}
