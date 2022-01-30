@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/borowood/static/css/main.019b1880.chunk.css",
-    "main.js": "/borowood/static/js/main.2d0ae017.chunk.js",
-    "main.js.map": "/borowood/static/js/main.2d0ae017.chunk.js.map",
+    "main.css": "/borowood/static/css/main.3c33bb88.chunk.css",
+    "main.js": "/borowood/static/js/main.0e6476c3.chunk.js",
+    "main.js.map": "/borowood/static/js/main.0e6476c3.chunk.js.map",
     "runtime-main.js": "/borowood/static/js/runtime-main.8d598e05.js",
     "runtime-main.js.map": "/borowood/static/js/runtime-main.8d598e05.js.map",
     "static/css/2.9648bd54.chunk.css": "/borowood/static/css/2.9648bd54.chunk.css",
-    "static/js/2.64972408.chunk.js": "/borowood/static/js/2.64972408.chunk.js",
-    "static/js/2.64972408.chunk.js.map": "/borowood/static/js/2.64972408.chunk.js.map",
+    "static/js/2.2f118098.chunk.js": "/borowood/static/js/2.2f118098.chunk.js",
+    "static/js/2.2f118098.chunk.js.map": "/borowood/static/js/2.2f118098.chunk.js.map",
     "index.html": "/borowood/index.html",
     "static/css/2.9648bd54.chunk.css.map": "/borowood/static/css/2.9648bd54.chunk.css.map",
-    "static/css/main.019b1880.chunk.css.map": "/borowood/static/css/main.019b1880.chunk.css.map",
-    "static/js/2.64972408.chunk.js.LICENSE.txt": "/borowood/static/js/2.64972408.chunk.js.LICENSE.txt"
+    "static/css/main.3c33bb88.chunk.css.map": "/borowood/static/css/main.3c33bb88.chunk.css.map",
+    "static/js/2.2f118098.chunk.js.LICENSE.txt": "/borowood/static/js/2.2f118098.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8d598e05.js",
     "static/css/2.9648bd54.chunk.css",
-    "static/js/2.64972408.chunk.js",
-    "static/css/main.019b1880.chunk.css",
-    "static/js/main.2d0ae017.chunk.js"
+    "static/js/2.2f118098.chunk.js",
+    "static/css/main.3c33bb88.chunk.css",
+    "static/js/main.0e6476c3.chunk.js"
   ]
 }
